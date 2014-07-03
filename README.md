@@ -1,7 +1,7 @@
 awemagical
 ==========
 
-[Demo](http://thebru.github.io/awemagical) ~~is~~ will be here.
+Demo ~~is~~ will be [here](http://thebru.github.io/awemagical).
 
 Proposition to use the class name awemagical for layouts that use calc() for dimensions.
 
