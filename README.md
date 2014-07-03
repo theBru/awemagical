@@ -1,6 +1,8 @@
 awemagical
 ==========
 
+[Demo](http://thebru.github.io/awemagical) ~~is~~ will be here.
+
 Proposition to use the class name awemagical for layouts that use calc() for dimensions.
 
 In a not-so-recent tweetalogue with a former course instructor of mine, who thought cacl()'s are the gift of the interwebz for those who are not very adept at maths, I suggested that every element that uses calc() should have 'awemagical' as a class name.
