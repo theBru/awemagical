@@ -1,0 +1,11 @@
+$big--width: calc(100% - 30px);
+$small--width: calc(50% - 20px);
+
+
+.bix-box {
+  width: $big--width;
+}
+
+.small-box {
+  width: $small--width;
+}
