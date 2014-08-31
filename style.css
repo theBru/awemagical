@@ -1,13 +1,16 @@
 .big-box {
   width: calc(100% - 30px);
+  height: 50px;
   background: green;
 }
 
 .small-box {
   background: red;
   width: calc(50% - 20px);
+  height: 50px;
 }
 
 .small-box::last-child {
   background: blue;
+  height: 50px;
 }
