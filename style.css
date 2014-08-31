@@ -10,7 +10,7 @@
   height: 50px;
 }
 
-.small-box::last-child {
+.small-box:last-child {
   background: blue;
   height: 50px;
 }
