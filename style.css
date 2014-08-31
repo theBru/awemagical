@@ -1,4 +1,13 @@
-h1 {
-  color: red;
- }
- 
+.big-box {
+  width: calc(100% - 30px);
+  background: green;
+}
+
+.small-box {
+  background: red;
+  width: calc(50% - 20px);
+}
+
+.small-box::last-child {
+  background: blue;
+}
